@@ -1,5 +1,5 @@
 # Deep-Learning-Study
-Things covered in Tema Data Science of YBIGTA
+Things covered in Team Data Science of YBIGTA
 
 ---
 
