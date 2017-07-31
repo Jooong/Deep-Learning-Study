@@ -21,13 +21,13 @@ Our plan in this summer vacation:
  
 &nbsp;&nbsp;&nbsp;&nbsp; ...
  
-3) Review some state-of-arts papers regarding GAN
+3) Review some state-of-arts papers regarding GAN - TBD
+&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;<TBD>
 
 
-4) Apply GAN and build a product regarding GAN
-&nbsp;&nbsp;&nbsp;&nbsp;<TBD>
+4) Apply GAN and build a product regarding GAN - TBD
+&nbsp;&nbsp;
 
 
 
