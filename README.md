@@ -1,4 +1,33 @@
 # Deep-Learning-Study
-Assignments in YBIGTA - Team Data Science
+Things covered in Tema Data Science of YBIGTA
 
-NOTHING SPECIAL
+---
+
+Our plan in this summer vacation:
+
+1) Review basic & main papers regarding GAN
+
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Generative Adversarial Networks - Ian Goodfellow
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;(2) NIPS 2016 Tutorial : Generative Adversarial Networks - Ian Goodfellow
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;...
+  
+2) Build some toymodels of GAN
+
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Generating Gaussian Distribution with GAN
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Generating MNIST Images with GAN
+ 
+&nbsp;&nbsp;&nbsp;&nbsp; ...
+ 
+3) Review some state-of-arts papers regarding GAN
+
+&nbsp;&nbsp;&nbsp;&nbsp;<TBD>
+
+
+4) Apply GAN and build a product regarding GAN
+&nbsp;&nbsp;&nbsp;&nbsp;<TBD>
+
+
+
